@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 少创-青少年编程教育
 
 # Username (this should match the folder name)
 authors:
