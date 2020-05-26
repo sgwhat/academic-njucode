@@ -20,20 +20,20 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+特色项目:
+- 以年龄段为划分标准
+- 以编程能力为划分标准
+- 以技术为核心，以兴趣为基础
 
-education:
+项目简介:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: 公主的编程世界
     institution: Stanford University
     year: 2012
-  - course: MEng in Artificial Intelligence
+  - course: 游戏模块
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
+  - course: 您听我说
     institution: Massachusetts Institute of Technology
     year: 2008
 
