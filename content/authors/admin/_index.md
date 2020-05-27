@@ -28,14 +28,14 @@ co-founders:
 education:
   courses:
   - course: 公主的编程世界
-    institution: Stanford University
-    year: 2012
+    institution: 减少对女性刻板印象
+
   - course: 游戏模块
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: 通过指令与算法实现对游戏对象的操作
+     
   - course: 您听我说
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    institution: 提高家长参与的热情
+     
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
