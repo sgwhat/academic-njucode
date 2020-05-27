@@ -9,24 +9,39 @@
 #  weight = 10
 
 [[main]]
-  name = "少儿课程"
+  name = "思维小游戏"
   url = "#posts"
+  weight = 10
+
+[[main]]
+  name = "公主小课堂"
+  url = "#projects"
   weight = 20
 
 [[main]]
-  name = "进阶训练"
-  url = "#projects"
+  name = "等级测试"
+  url = "#featured"
   weight = 30
 
 [[main]]
-  name = "公益项目"
-  url = "#featured"
+  name = "赛事公告"
+  url = "#contact"
   weight = 40
 
 [[main]]
-  name = "联系我们"
-  url = "#contact"
-  weight = 60
+   name = "为她助力（公益众筹）"
+   url = "#contact"
+   weight = 50
+
+[[main]]
+   name = "您听我说"
+   url = "#contact"
+   weight = 60
+
+[[main]]    
+   name = "联系我们"
+   url = "#contact"
+   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
