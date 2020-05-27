@@ -20,7 +20,7 @@ role: 消除性别、年龄、学历的不平等
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
+education:
 - 以年龄段为划分标准
 - 以编程能力为划分标准
 - 以技术为核心，以兴趣为基础
