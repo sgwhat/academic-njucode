@@ -26,7 +26,7 @@ collections:
       - label: "Interests (shown in About widget)"
         name: "Co-Funders"
         required: false
-        widget: "list"
+        widget: list
       - label: Social links
         name: social
         required: false
