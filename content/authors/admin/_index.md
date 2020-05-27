@@ -28,11 +28,11 @@ Co-Founders:
 
 education:
   courses:
-  - course: 公主的编程世界
-    institution: 减少对女性刻板印象
+  - course: "公主"小课堂
+    institution: 换装小游戏
 
-  - course: 游戏模块
-    institution: 通过指令与算法实现对游戏对象的操作
+  - course: 思维训练
+    institution: 打破刻板印像，从娃娃抓起
      
   - course: 您听我说
     institution: 提高家长参与的热情
