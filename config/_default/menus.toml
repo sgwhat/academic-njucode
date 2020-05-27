@@ -29,7 +29,7 @@
   weight = 40
 
 [[main]]
-   name = "为她助力（公益众筹）"
+   name = "为她助力（公益）"
    url = "#contact"
    weight = 50
 
@@ -41,7 +41,7 @@
 [[main]]    
    name = "联系我们"
    url = "#contact"
-   weight = 50
+   weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
