@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 消除性别、年龄、学历的不平等
 
 # Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
+#organizations:
+#- name: Stanford University
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+co-founders:
 - 以年龄段为划分标准
 - 以编程能力为划分标准
 - 以技术为核心，以兴趣为基础
 
-education`:
+education:
   courses:
   - course: 公主的编程世界
     institution: Stanford University
