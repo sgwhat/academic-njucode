@@ -20,12 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-特色项目:
+interests:
 - 以年龄段为划分标准
 - 以编程能力为划分标准
 - 以技术为核心，以兴趣为基础
 
-项目简介:
+education`:
   courses:
   - course: 公主的编程世界
     institution: Stanford University
@@ -69,7 +69,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+“少创”青少年在线编程平台，旨在为4-12岁学龄青少年儿童提供多样化编程类课程，提高参与者使用程序设计语言解决实际问题的能力和对程序设计的兴趣。我公司提供的产品除交互性在线课程、一对一家教服务等之外，还创造性地设计了编程闯关游戏模块，让参与者通过自行选择游戏主题，以借助编程知识完成游戏闯关的方式，不仅做到寓教于学，也真正实现通过编程解决场景问题。同时，“公主的编程世界”项目旨在培养女孩的计算机兴趣，希望为打破性别刻板印象贡献力量。
