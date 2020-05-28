@@ -20,7 +20,7 @@ role: 消除性别、年龄、学历的不平等
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-Co-Founders:
+co-founders:
 - 孙梦佳
 - 魏春丽
 - 莫敏

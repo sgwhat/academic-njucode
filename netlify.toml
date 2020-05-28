@@ -24,9 +24,3 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
-
-[context.production.environment]
-  HUGO_VERSION = "0.71.1"
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.71.1"
