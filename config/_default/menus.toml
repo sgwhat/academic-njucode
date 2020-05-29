@@ -24,24 +24,29 @@
   weight = 30
 
 [[main]]
+  name = "线上交流社区"
+  url = "#featured"
+  weight = 40
+
+[[main]]
   name = "赛事公告"
   url = "#contact"
-  weight = 40
+  weight = 50
 
 [[main]]
    name = "为她助力（公益）"
    url = "#contact"
-   weight = 50
+   weight = 60
 
 [[main]]
    name = "您听我说"
    url = "#contact"
-   weight = 60
+   weight = 70
 
 [[main]]    
    name = "联系我们"
    url = "#contact"
-   weight = 70
+   weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
